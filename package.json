@@ -1,0 +1,23 @@
+{
+  "name": "get-rewards-multicall-txn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokesh-lync/get-rewards-multicall-txn.git"
+  },
+  "author": "Lokesh Kumar <lokesh@lync.world>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lokesh-lync/get-rewards-multicall-txn/issues"
+  },
+  "homepage": "https://github.com/lokesh-lync/get-rewards-multicall-txn#readme",
+  "description": "",
+  "dependencies": {
+    "@lyncworld/lootbox-evm-sdk": "^3.1.1",
+    "ethers": "5.7"
+  }
+}
